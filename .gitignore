@@ -16,4 +16,8 @@ src/.deps
 src/Makefile
 src/Makefile.in
 src/list-test
-
+src/*.o
+stamp-h1
+config.h
+config.h.in
+*~
